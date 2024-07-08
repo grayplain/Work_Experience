@@ -53,3 +53,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+navigation:
+  - title: PM経歴
+    url: /pm-experience/
+  - title: PM実績
+    url: /pm-achievements/    
+  - title: エンジニア経歴
+    url: /engineer-experience/
+  - title: エンジニア実績
+    url: /engineer-achievements/
+  - title: その他経歴
+    url: /other-experience/

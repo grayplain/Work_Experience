@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: experience
+title: 職務経歴書
 ---
 
-# Hello World
+<!--# 職務経歴書-->
+
+このサイトでは、私の職務経歴と実績を紹介しています。以下のリンクから各セクションをご覧いただけます。
