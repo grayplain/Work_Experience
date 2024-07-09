@@ -1,6 +1,6 @@
 ---
 layout: experience
-title: 職務経歴一覧(PM)
+title: PM経歴
 ---
 
 

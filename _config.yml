@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: 職務経歴
 email: suzuki.ryo0905@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "/Work_Experience"
 url: "https://grayplain.github.io"
 #twitter_username: jekyllrb
@@ -54,14 +51,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-navigation:
-  - title: PM経歴
-    url: /pm-experience/
-  - title: PM実績
-    url: /pm-achievements/    
-  - title: エンジニア経歴
-    url: /engineer-experience/
-  - title: エンジニア実績
-    url: /engineer-achievements/
-  - title: その他経歴
-    url: /other-experience/
+#navigation:
+#  - title: PM経歴
+#    url: /pm-experience/
+#  - title: エンジニア経歴
+#    url: /engineer-experience/
+#  - title: その他
+#    url: /other-experience/
